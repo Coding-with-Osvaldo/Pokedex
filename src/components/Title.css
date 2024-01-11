@@ -1,0 +1,12 @@
+.title-page{
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.title-page h1{
+    font-weight: bold;
+    font-size: 5rem;
+    color: #100B0E;
+}
+

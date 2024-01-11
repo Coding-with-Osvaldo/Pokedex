@@ -1,11 +1,14 @@
 import { app } from "./services/firebase"
+import  TelaPadrao from "./pages/Home.jsx"
 
 function App() {
 
   return (
-    <>
-      <p>Ola mundo</p>
-    </>
+    <body>
+
+      <TelaPadrao/>
+       
+    </body>
   )
 }
 

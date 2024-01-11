@@ -1,0 +1,12 @@
+.footer-title{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    align-self: flex-end;
+    width: 100%;
+    height: 100%;
+}
+.footer-title h4{
+    font-weight: bold;
+    color: #1E1E1E;
+}

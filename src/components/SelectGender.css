@@ -1,0 +1,41 @@
+.poke-gender{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #C04141;
+    width: 600px;
+    height: 100px;
+    margin: 1rem;
+    border-radius: 30px;
+}
+
+.poke-gender img{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;
+    object-fit: cover;
+    position: relative;
+    right: -100px;
+}
+
+.poke-gender label{
+    color: white;
+    font-weight: bold;
+    margin: 1rem;
+    font-size: 2rem;
+    outline: none;
+}
+
+.poke-gender #Generos{
+    border: none; 
+    font-size: x-large;
+    color: white;
+    background-color: #C04141;
+    font-weight: bold;
+    font-size: 2rem;
+    outline: none;
+}
+
+.gender{
+    font-size: 0.5em;
+}
